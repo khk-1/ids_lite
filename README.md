@@ -15,7 +15,7 @@ This project demonstrates basic cybersecurity monitoring and threat detection co
 - Python
 - Collections (defaultdict)
 
-## ▶️ How to Run
+
 
 
 ## 🧠 What I Learned
